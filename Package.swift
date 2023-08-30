@@ -10,7 +10,7 @@ import AppleProductTypes
 let package = Package(
     name: "SwiftUITableView",
     platforms: [
-        .iOS("15.2")
+        .iOS("16")
     ],
     products: [
         .iOSApplication(
@@ -40,3 +40,4 @@ let package = Package(
         )
     ]
 )
+
